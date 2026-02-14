@@ -1,4 +1,4 @@
-# House of Developers - Flappy Bird Hackathon 🎮
+# House of Developers - Falppy Bird Hackathon 🎮
 
 Our first hackathon project! A Flappy Bird game with cool crypto stuff—each player gets a unique avatar that gets hashed (blockchain vibes).
 
